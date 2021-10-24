@@ -5,6 +5,11 @@ O número 1 é a representação de estar ligado ou uma afirmação, enquanto o 
 
 ## História
 
+## Notação Posicional
+
+É a posição onde se encontra um algum algarismo dentro de um número.
+
+
 ## Microtransitors
 
 São minusculos switches que podem estar ligados ou desligados dentro do computador usados para contar. Cada um deles é chamado de **BIT** (**BI**nary digi**T**)
