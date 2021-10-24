@@ -7,5 +7,5 @@ O número 1 é a representação de estar ligado ou uma afirmação, enquanto o 
 
 ## Microtransitors
 
-São minusculos switches que podem estar ligados ou desligados dentro do computador usados para contar. Cada um deles é chamado de BIT (BInary digiT) `a` 
+São minusculos switches que podem estar ligados ou desligados dentro do computador usados para contar. Cada um deles é chamado de **BIT** (**BI**nary digi**T**)
 Eles começaram numa fila de 8 micro transitores. Para fazer uso mais efetivo desses
