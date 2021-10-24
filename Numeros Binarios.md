@@ -12,3 +12,13 @@ Eles começaram numa fila de 8 micro transitores. Para fazer uso mais efetivo de
 
 <img src="https://media.discordapp.net/attachments/901608374456696842/901625266315624458/unknown.png?width=835&height=468">
 
+**E como podemos escrever apenas usando o binário?**
+ Pelo
+
+ **A**merican
+ **S**tandard
+ **C**ode for
+ **I**nformation
+ **I**nterchange
+
+que é possível graças ao código binário e as 255 conbinações diferentes. Com essa quantidade é possível usar todos os caracteres de um teclado.
