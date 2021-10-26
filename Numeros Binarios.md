@@ -31,6 +31,7 @@ que é possível graças ao código binário e as 255 conbinações diferentes. 
 ## Fontes e referências
 
 * [Notação Posicional - Bases Numéricas #01](https://www.youtube.com/watch?v=J5q7s7l2EuI&ab_channel=CursoemV%C3%ADdeo)
+* [Relações entre Sistemas de Numeração - Bases Numéricas #04](https://www.youtube.com/watch?v=4ZbeExMYRIo&ab_channel=CursoemV%C3%ADdeo)
 * [Why Do Computers Use 1s and 0s? Binary and Transistors Explained.](https://www.youtube.com/watch?v=Xpk67YzOn5w&ab_channel=BasicsExplained%2CH3Vtux)
 * [Historia del Sistema Binario y Su Descripción | AllUneed Just2U](https://www.youtube.com/watch?v=1asblgll0rQ&ab_channel=AllUneedJust2U)
 * [Binary number](https://en.wikipedia.org/wiki/Binary_number)
