@@ -36,7 +36,7 @@ O protocolo por ser novo e muito simples, tinha alguns problemas, um deles era d
 
 Conforme os anos passavam, os pontos de rede eram mais. Isso fazia com que o NCP não seja a tecnologia mais viável.
 
-<img src="https://www.poftut.com/wp-content/uploads/2019/09/img_5d7a2640d6e1d.png"
+<img src="https://www.poftut.com/wp-content/uploads/2019/09/img_5d7a2640d6e1d.png">
 
 ### TCP/IP
 
