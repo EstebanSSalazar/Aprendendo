@@ -15,7 +15,13 @@ A concepção da internet começou na guerra fria e rivalidade tecnologica entre
 
 O objetivo da **Sputnik-1**, que ninguém sabia além dos soviéticos, era de dar órbita na Terra, transmitir um sinal de rádio que fazia um "beep" e finalmente cair após acabar a bateria. Ele conseguiu aguentar mais 6 meses sem bateria orbitando a Terra.
 
-No medo do desconhcimento dos EUA na frente do satélite soviético **Sputnik-1**, eles estavam pensando como fazer um backup em caso que o satélite interaja de alguma maneira com alguma base militar estadunidense. Para isso eles criaram uma rede: a **ARPANET** (**A**dvanced **R**esearch **P**rojects **A**gency **Net**work)
+### A ARPANET
+
+No medo do desconhcimento dos EUA na frente do satélite soviético **Sputnik-1**, eles estavam pensando como fazer um backup em caso que o satélite interaja de alguma maneira com alguma base militar estadunidense. Para isso eles criaram uma rede: a **ARPANET** (**A**dvanced **R**esearch **P**rojects **A**gency **Net**work).
+
+
+
+<img src="https://olhardigital.com.br/uploads/acervo_imagens/2019/10/20191024161532.jpg">
 
 ## Fontes e referências
 
