@@ -19,9 +19,26 @@ O objetivo da **Sputnik-1**, que ninguém sabia além dos soviéticos, era de da
 
 No medo do desconhcimento dos EUA na frente do satélite soviético **Sputnik-1**, eles estavam pensando como fazer um backup em caso que o satélite interaja de alguma maneira com alguma base militar estadunidense. Para isso eles criaram uma rede: a **ARPANET** (**A**dvanced **R**esearch **P**rojects **A**gency **Net**work).
 
+Nessa rede estavam conectados quatro computadores:
+* **SDS Sigma 7** na Universidade da California.
+* **SDS90** na Universidade Stanford.
+* **IBM 370/75** no Centro de Matemática dos Angeles
+* **DEC PDP-10**, o único computador militar, na base militar de Utah.
 
+O problema é que por ser computadores de fabricantes diferentes, cada um trabalhava em linguagens diferentes, na época, **1969**.
 
 <img src="https://olhardigital.com.br/uploads/acervo_imagens/2019/10/20191024161532.jpg">
+
+### Network Control Protocol (NCP)
+
+Protocolo criado na Universidade da California para poder fazer com que os computadores da rede **ARPANET** possam se comunidar entre si.
+O protocolo por ser novo e muito simples, tinha alguns problemas, um deles era da conexão ser muito fraca, tanto que para ser limitada a trocar informações entre dois computadores, assim bloqueando a rede para as outras duas.
+
+Conforme os anos passavam, os pontos de rede eram mais. Isso fazia com que o NCP não seja a tecnologia mais viável.
+
+<img src="https://www.poftut.com/wp-content/uploads/2019/09/img_5d7a2640d6e1d.png"
+
+### TCP/IP
 
 ## Fontes e referências
 
