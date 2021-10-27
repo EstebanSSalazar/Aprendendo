@@ -12,6 +12,7 @@ O contexto historico da Internet aconteceu na guerra fria e rivalidade tecnologi
 ## Fontes e referências
 
 * [Como a Internet chega na minha casa? - @Curso em Vídeo HTML5 e CSS3](https://www.youtube.com/watch?v=F74GKCLXUWM)
+* [html-css / aulas-pdf / 01 - História da Internet.pdf](https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/01%20-%20Hist%C3%B3ria%20da%20Internet.pdf)
 * [GUERRA FRIA: O QUE FOI E RESUMO | HISTÓRIA | QUER QUE DESENHE?](https://www.youtube.com/watch?v=cAwsLaO4HGQ&ab_channel=Descomplica)
 * [Como a internet funciona? - Glad You Asked T1](https://www.youtube.com/watch?v=TNQsmPf24go&ab_channel=Vox)
 * [Satélites Sputnik - Astronomia - InfoEscola](https://www.infoescola.com/astronomia/satelites-sputnik/)
