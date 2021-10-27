@@ -11,6 +11,8 @@ A concepção da internet começou na guerra fria e rivalidade tecnologica entre
 * 1961: A União Soviética manda o primeiro humano pro espaço: Iuri Gagarin.
 * 1969: Os EUA manda o Apolo 11 com Neil Armstrong que é o primeiro homem em chegar na lua, chegando no apice da corrida espacial.
 
+<img src="https://www.infoescola.com/wp-content/uploads/2012/02/sputnik.jpg">
+
 O objetivo da **Sputnik-1**, que ninguém sabia além dos soviéticos, era de dar órbita na Terra e transmitir um sinal de rádio que fazia um "beep" e finalmente cair após acabar a bateria. Ele conseguiu aguentar mais uns 6 meses sem bateria orbitando a Terra sem bateria.
 
 No medo do desconhcimento dos EUA na frente do satélite soviético **Sputnik-1**, eles estavam pensando como fazer um backup em casa que o satélite interaja de alguma maneira com alguma base militar estadunidense. Para isso eleres criaram uma rede: a **ARPANET** (**A**dvanced **R**esearch **P**rojects **A**gency **Net**work)
