@@ -64,6 +64,7 @@ Atualmente, além de satélites, se usa cabos embaixo da água. Recomendo fortem
 * [html-css / aulas-pdf / 01 - História da Internet.pdf](https://github.com/gustavoguanabara/html-css/blob/master/aulas-pdf/01%20-%20Hist%C3%B3ria%20da%20Internet.pdf)
 * [GUERRA FRIA: O QUE FOI E RESUMO | HISTÓRIA | QUER QUE DESENHE?](https://www.youtube.com/watch?v=cAwsLaO4HGQ&ab_channel=Descomplica)
 * [Como a internet funciona? - Glad You Asked T1](https://www.youtube.com/watch?v=TNQsmPf24go&ab_channel=Vox)
+* [Submarine Cable Map](https://www.submarinecablemap.com/)
 * [Satélites Sputnik - Astronomia - InfoEscola](https://www.infoescola.com/astronomia/satelites-sputnik/)
 * [Sputnik-1 - Wikipédia, a enciclópedia livre](https://pt.wikipedia.org/wiki/Sputnik-1)
 * [Sputnik 2 - Wikipédia, a enciclópedia livre](https://pt.wikipedia.org/wiki/Sputnik_2)
