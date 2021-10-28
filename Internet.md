@@ -50,7 +50,13 @@ Com o crescimento da ARPANET, que no seu início tinha fins militares, decidiram
 * NSFNET (National Science Foundation Network): uma fundação de apoio à ciência.
 * **Redes comerciais**.
 
-Existiam muitas redes comerciais no momento e tinha a necessidade de se comunicar entre elas. O nome da rede que deram para os computadores que queriam se comunicar fora a MILNET e NSFNET foi de **Interconnect Networking**. Passou a ser abreviado para **Internetworking** e foi ainda mais simplificado para **Internet**.
+Existiam muitas redes comerciais no momento e tinha a necessidade de se comunicar entre elas. O nome do conjunto das redes que deram se comunicar, fora a MILNET e NSFNET, foi de **Interconnect Networking**. Passou a ser abreviado para **Internetworking** e foi ainda mais simplificado para **Internet**.
+
+## Internet na atualidade
+
+Atualmente, além de satélites, se usa cabos embaixo da água. Recomendo fortemente assistir ao vídeo [Como a internet funciona? - Glad You Asked T1](https://www.youtube.com/watch?v=TNQsmPf24go&ab_channel=Vox) para mais informações didáticas sobre como é atualmente a troca de informações.
+
+<img src="https://i2.wp.com/securesteve.com/wp-content/uploads/2020/07/submarine_cable_map.png?resize=750%2C571&ssl=1">
 
 ## Fontes e referências
 
