@@ -45,7 +45,12 @@ Com esses dois protocolos se complementando, eles se uniram e formaram o TCP/IP.
 
 ### A Internet
 
+Com o crescimento da ARPANET, que no seu início tinha fins militares, decidiram separar em redes menores para fins diferentes:
+* MILNET: a rede militar.
+* NSFNET (National Science Foundation Network): uma fundação de apoio à ciência.
+* **Redes comerciais**.
 
+Existiam muitas redes comerciais no momento e tinha a necessidade de se comunicar entre elas. O nome da rede que deram para os computadores que queriam se comunicar fora a MILNET e NSFNET foi de **Interconnect Networking**. Passou a ser abreviado para **Internetworking** e foi ainda mais simplificado para **Internet**.
 
 ## Fontes e referências
 
