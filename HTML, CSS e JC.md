@@ -23,3 +23,8 @@ CSS é focado em design. Quando visita um site, o que é CSS? Cores, sombras, ta
 ## JavaScript
 
 Pode ser encontrado num site onde pode intereagir com o mouse, scroll, etc
+
+
+# Fontes e referências:
+
+* [A diferença entre HTML, CSS e JavaScript - @Curso em Vídeo HTML5 e CSS3](https://www.youtube.com/watch?v=B4FU3NFRTDw&ab_channel=CursoemV%C3%ADdeo)
