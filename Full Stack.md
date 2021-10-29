@@ -1,4 +1,6 @@
-# HTML, SCC e JC
+# Front-end (client-side)
+
+Precisa dominar HTML, CSS e Java Script para desenvolver em front-end. É tudo que, quando o Cliente solicita entrar num site, aparece para ele e consegue interagir.
 
 ## HTML
 
@@ -24,6 +26,9 @@ CSS é focado em design. Quando visita um site, o que é CSS? Cores, sombras, ta
 
 Pode ser encontrado num site onde pode intereagir com o mouse, scroll, etc
 
+# Back-end (server-side)
+
+Tem a ver com a parte do Servidor, os dados que ele tem, etc. 
 
 # Fontes e referências:
 
