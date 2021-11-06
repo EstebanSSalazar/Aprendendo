@@ -1,12 +1,69 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-br">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Index.html</title>
+    <style>
+        h1 {
+            color: chartreuse;
+        }
+        h2 {
+            color: darkblue;
+        }
+        p {
+            color: blueviolet;
+        }
+        mark {
+            background-color: blueviolet;
+        }
+    </style>
+    <title>Formatação de texto</title>
 </head>
 <body>
-    <img>
+    <h1>Principais formatações</h1>
+    <h2>Negrito/Destaque</h2>
+    <p>Nesta frase temos um <b>termo em negrito</b> usando a tag B de Bold (não semântica).</p>
+    <p>Nesta frase, temos um<strong>termo com destaque</strong> usando a tag strong (semântica).</p>
+    <h2>Itálico/Ênfase</h2>
+    <p>Nesta frase, temos <i>um termo em itálico</i> usando a tag I (não semântica).</p>
+    <p>Nesta frase, temo um <em>termo em ênfase</em> usando a tag em (semântica).</p>
+    <h2>Mark</h2>
+    <p>Nesta frase, temos <mark>um termo em MARK</mark> usando a tag mark.</p>
+    <h2>Texto pequeno</h2>
+    <p>Nesta frase, temos <small>um termo em pequeno usando</small> a tag small.</p>
+    <h2>Texto deletad/inserido</h2>
+    <p>Nesta frase, temos <del>um termo deletado.</del> usando a tag del.</p>
+    <p>Nesta frase, temos <ins>um termo inserido</ins> usando a tag ins.</p>
+    <h2>Texto subscrito/sobrescrito</h2>
+    <p>Nesta frase, temos <sup>um termo subscrito</sup> usando a tag sup</p>
+    <p>Nesta frase, temos <sub>um termo sobrescrito</sub> usando a tag sub</p>
+    <h2>Abreviações</h2>
+    <p>Nesta frase temos <abbr title="com o parâmetro title colocamos informação aqui">um termo usando</abbr> a tag abbr.</p>
+    <h2>Citações</h2>
+    <p>Nesta frase temos <q>um termo citado</q> com a tag q</p>
+    <blockquote cite="URL da citação">Neste paragrafo estamos utilizando a tag blockquote com o parâmetro CITE que não irá aparecer no site, mas serve para deixar as referencias e ajudará na busqueda que irá ser relacionada.</blockquote>
+    <h2>Códigos</h2>
+    <p>nesta frase, temos <code>um termno mono espaçado</code> usando a tag code.
+    <br><p>Aqui temos um exemplo de código usando a tag pre:</p>
+        <code>
+            <pre>
+    num = int(input('digite um número))
+    if num % 2 == 0
+        print(f'0 número {num} é PAR')
+    else:
+        print(f'0 número {num} é ÍMPAR')
+    print('FIM DO PROGRAMA')
+            </pre>
+        </code>
+    <h2></h2>
+    <details>
+        <summary>Nome do bagulho</summary>
+        <section>
+            <div>Alguma coisinha mais</div>
+            <div>Mais alguma coisinha aí</div>
+        </section>
+    </details>
+    </p>
 </body>
 </html>
