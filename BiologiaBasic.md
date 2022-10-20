@@ -32,3 +32,26 @@ que acontece na união de duas gametas, misturando seu material genético.
 É a função de transmitir informações genéticas para um novo organismo.
 ### Mudança e adaptação
 Essa característica está em função da sobrevivencia e taxa reprodutiva, ou seja, o organismo não pode ser morto antes dele reproduzir, isso seria fatal em grande escala para a espécie.
+
+# Citologia
+Até então toda célula é composta por
+Membrana plásmatica: Ela estabelece o limite da célula, do que é intracelular (centro da célula) e extracelular (fora da célula).
+Citoplasma: É o espaço intracelular. Ele está composto por uma solução aquosa chamada de Citosol ou Hialoplasma.
+Material Genético: É o DNA, o ácido nucleico.
+Ribossomo: É a responsável pra sintetizar proteínas (PROCURAR MAIS INFORMAÇÃO SOBRE RIBOSSOMO).
+
+--<ADD IMAGEM DE CELULAR BASICA COM AS QUATRO PARTES>
+
+# Células Procariontes
+
+Morfologia: Pro (primitivo) Karyon (núcleo)
+
+Elas não possuem um recipiente onde, supostamente, estaria o núcleo; em lugar disso, as células procariontes possuem o núcluo espalhado pelo Citoplama.
+Existem dois tipos de células procariontes:
+
+## Bactéria
+
+## Arqueias (uma pirona)
+Elas não são tão diferentes das bactérias. Elas são bactérias primitivas que vivem em ambientes hóstis. Também são chamadas de Bactérias EXTREMOFILAS.
+
+
