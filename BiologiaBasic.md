@@ -40,7 +40,7 @@ Citoplasma: É o espaço intracelular. Ele está composto por uma solução aquo
 Material Genético: É o DNA, o ácido nucleico.
 Ribossomo: É a responsável pra sintetizar proteínas (PROCURAR MAIS INFORMAÇÃO SOBRE RIBOSSOMO).
 
-<img src="https://cdn.discordapp.com/attachments/296433972605353995/1033105117613920256/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/296433972605353995/1033107682556645476/unknown.png">
 
 # Células Procariontes
 
