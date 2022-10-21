@@ -11,15 +11,11 @@ P fósforo
 S enxofre
 
 ## Características dos seres vivos
-### Organização celular
-É composto por celulas que estão organizadas para realizar diversas funções no organismo
-### Metabolismo
-São os processos necessários para a adquisição e gasto de energias, chamados de Anabolismo e Catabolismo, respetivamente.
+* Organização celular: É composto por celulas que estão organizadas para realizar diversas funções no organismo
+* Metabolismo: São os processos necessários para a adquisição e gasto de energias, chamados de Anabolismo e Catabolismo, respetivamente.
 Quando o organismo está em equilíbrio de anabolismo e catabolismo, se diz que ele está em Homeostase.
-### Crescimento
-Todo organismo, uni ou pluricelular, é capaz de se desenvolver ao longo da vida natural da espécie.
-### Reprodução
-Todo ser vivo é capaz de reproduzir. No caso das
+* Crescimento: Todo organismo, uni ou pluricelular, é capaz de se desenvolver ao longo da vida natural da espécie.
+* Reprodução: Todo ser vivo é capaz de reproduzir. No caso dos organismos univelulares
 #### Organismo unicelular
 acontece ao crescer e chegar ao seu crescimento máximo que não é mais capaz de se sustentar para funcionar de uma maneira OK. 
 
